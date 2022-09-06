@@ -1,5 +1,5 @@
 ﻿<Themes>
-  <Theme Name="Storm" GUID="{18412247-2a54-4bef-bfd2-475d65648946}" BaseGUID="{1ded0138-47ce-435e-84ef-9ec1f439b749}">
+  <Theme Name="Storm" GUID="{16821252-1640-4d03-846c-f85d2c753125}" BaseGUID="{1ded0138-47ce-435e-84ef-9ec1f439b749}">
     <Category Name="ACDCOverview" GUID="{c8887ac6-3c60-4209-9d69-8f4c12a60044}">
       <Color Name="Body">
         <Background Type="CT_RAW" Source="FF050505" />
@@ -235,7 +235,7 @@
       </Color>
       <Color Name="class name">
         <Background Type="CT_INVALID" Source="00000000" />
-        <Foreground Type="CT_RAW" Source="FF58F2EC" />
+        <Foreground Type="CT_RAW" Source="FF58ECF2" />
       </Color>
       <Color Name="delegate name">
         <Background Type="CT_INVALID" Source="00000000" />
@@ -255,7 +255,7 @@
       </Color>
       <Color Name="struct name">
         <Background Type="CT_INVALID" Source="00000000" />
-        <Foreground Type="CT_RAW" Source="FF48E2DC" />
+        <Foreground Type="CT_RAW" Source="FF58F2BC" />
       </Color>
       <Color Name="type parameter name">
         <Background Type="CT_INVALID" Source="00000000" />
@@ -806,7 +806,7 @@
         <Foreground Type="CT_INVALID" Source="00000000" />
       </Color>
       <Color Name="MarkerFormatDefinition/HighlightedDefinition">
-        <Background Type="CT_RAW" Source="FF48830E" />
+        <Background Type="CT_RAW" Source="FF007171" />
         <Foreground Type="CT_RAW" Source="FFC0D3AD" />
       </Color>
       <Color Name="RenameTrackingTag">
@@ -4963,7 +4963,7 @@
         <Background Type="CT_RAW" Source="FF002121" />
       </Color>
       <Color Name="PanelHyperlink">
-        <Background Type="CT_RAW" Source="FF001515" />
+        <Background Type="CT_RAW" Source="FF009191" />
       </Color>
       <Color Name="PanelHyperlinkDisabled">
         <Background Type="CT_RAW" Source="FF656565" />
@@ -5622,7 +5622,7 @@
         <Background Type="CT_RAW" Source="FFD0D0D0" />
       </Color>
       <Color Name="ToolWindowTabSelectedActiveText">
-        <Background Type="CT_RAW" Source="FFB0B0B0" />
+        <Background Type="CT_RAW" Source="FFF0F0F0" />
       </Color>
       <Color Name="ToolWindowTabSelectedBorder">
         <Background Type="CT_RAW" Source="FF050505" />
@@ -5631,7 +5631,7 @@
         <Background Type="CT_RAW" Source="FF050505" />
       </Color>
       <Color Name="ToolWindowTabSelectedText">
-        <Background Type="CT_RAW" Source="FFA0A0A0" />
+        <Background Type="CT_RAW" Source="FFE0E0E0" />
       </Color>
       <Color Name="ToolWindowTabSeparator">
         <Background Type="CT_RAW" Source="FF002121" />
@@ -7286,10 +7286,10 @@
         <Foreground Type="CT_RAW" Source="FF001515" />
       </Color>
       <Color Name="StartPageCheckBoxBackground">
-        <Background Type="CT_RAW" Source="FF717171" />
+        <Background Type="CT_RAW" Source="FF001515" />
       </Color>
       <Color Name="StartPageCheckBoxBorder">
-        <Foreground Type="CT_RAW" Source="00000000" />
+        <Foreground Type="CT_RAW" Source="FF001717" />
       </Color>
       <Color Name="StartPageCheckBoxCheckMark">
         <Foreground Type="CT_RAW" Source="FFFFFFFF" />
@@ -7298,7 +7298,7 @@
         <Background Type="CT_RAW" Source="FF050505" />
       </Color>
       <Color Name="StartPageCheckBoxMouseOverBorder">
-        <Foreground Type="CT_RAW" Source="FF001515" />
+        <Foreground Type="CT_RAW" Source="FF002121" />
       </Color>
       <Color Name="StartPageCheckBoxMouseOverCheckMark">
         <Foreground Type="CT_RAW" Source="FF001515" />
@@ -7310,7 +7310,7 @@
         <Background Type="CT_RAW" Source="FF001515" />
       </Color>
       <Color Name="StartPageCheckBoxPressedBorder">
-        <Foreground Type="CT_RAW" Source="FF001515" />
+        <Foreground Type="CT_RAW" Source="FF001717" />
       </Color>
       <Color Name="StartPageCheckBoxPressedCheckMark">
         <Foreground Type="CT_RAW" Source="FFFFFFFF" />
@@ -7338,11 +7338,11 @@
         <Foreground Type="CT_RAW" Source="FFFFFFFF" />
       </Color>
       <Color Name="StartPageExpanderHover">
-        <Background Type="CT_RAW" Source="FF606060" />
+        <Background Type="CT_RAW" Source="FF006060" />
         <Foreground Type="CT_RAW" Source="FFFFFFFF" />
       </Color>
       <Color Name="StartPageExpanderPressed">
-        <Background Type="CT_RAW" Source="FF424242" />
+        <Background Type="CT_RAW" Source="FF004242" />
         <Foreground Type="CT_RAW" Source="FFFFFFFF" />
       </Color>
       <Color Name="StartPageHeadingText">
@@ -7358,17 +7358,17 @@
         <Background Type="CT_RAW" Source="FFF1F1F1" />
       </Color>
       <Color Name="StartPageListItemGlyphHover">
-        <Background Type="CT_RAW" Source="FF454545" />
+        <Background Type="CT_RAW" Source="FF004545" />
       </Color>
       <Color Name="StartPageListItemGlyphPressed">
         <Background Type="CT_RAW" Source="FFF1F1F1" />
       </Color>
       <Color Name="StartPageListItemHover">
-        <Background Type="CT_RAW" Source="FF424242" />
+        <Background Type="CT_RAW" Source="FF001515" />
         <Foreground Type="CT_RAW" Source="FFF1F1F1" />
       </Color>
       <Color Name="StartPageListItemPressed">
-        <Background Type="CT_RAW" Source="FF001515" />
+        <Background Type="CT_RAW" Source="FF001212" />
         <Foreground Type="CT_RAW" Source="FFFFFFFF" />
       </Color>
       <Color Name="StartPageNewsBackground">
@@ -7400,7 +7400,7 @@
         <Foreground Type="CT_RAW" Source="FFA9A9A9" />
       </Color>
       <Color Name="StartPageTitleText">
-        <Foreground Type="CT_RAW" Source="FFA7A7A7" />
+        <Foreground Type="CT_RAW" Source="FF00A7A7" />
       </Color>
       <Color Name="UserConsent">
         <Background Type="CT_RAW" Source="FFFEFCC8" />
@@ -8123,11 +8123,11 @@
       </Color>
       <Color Name="XML Text">
         <Background Type="CT_AUTOMATIC" Source="00000000" />
-        <Foreground Type="CT_RAW" Source="FFE0E0E0" />
+        <Foreground Type="CT_RAW" Source="FFF0F0F0" />
       </Color>
       <Color Name="XML Keyword">
         <Background Type="CT_AUTOMATIC" Source="00000000" />
-        <Foreground Type="CT_RAW" Source="FF17B2AC" />
+        <Foreground Type="CT_RAW" Source="FF72CC5D" />
       </Color>
       <Color Name="XML Delimiter">
         <Background Type="CT_AUTOMATIC" Source="00000000" />
@@ -8135,11 +8135,11 @@
       </Color>
       <Color Name="XML Name">
         <Background Type="CT_AUTOMATIC" Source="00000000" />
-        <Foreground Type="CT_RAW" Source="FFB0B0B0" />
+        <Foreground Type="CT_RAW" Source="FFFF1094" />
       </Color>
       <Color Name="XML Attribute">
         <Background Type="CT_AUTOMATIC" Source="00000000" />
-        <Foreground Type="CT_RAW" Source="FFB7B7B7" />
+        <Foreground Type="CT_RAW" Source="FF58F2EC" />
       </Color>
       <Color Name="XML Processing Instruction">
         <Background Type="CT_AUTOMATIC" Source="00000000" />
@@ -8147,7 +8147,7 @@
       </Color>
       <Color Name="XML Attribute Value">
         <Background Type="CT_AUTOMATIC" Source="00000000" />
-        <Foreground Type="CT_RAW" Source="FFD4D4D4" />
+        <Foreground Type="CT_RAW" Source="FFF0F0F0" />
       </Color>
       <Color Name="XML Attribute Quotes">
         <Background Type="CT_AUTOMATIC" Source="00000000" />
@@ -8180,7 +8180,7 @@
         <Foreground Type="CT_INVALID" Source="00000000" />
       </Color>
       <Color Name="Indicator Margin">
-        <Background Type="CT_RAW" Source="FF333333" />
+        <Background Type="CT_RAW" Source="FF002121" />
         <Foreground Type="CT_INVALID" Source="00000000" />
       </Color>
       <Color Name="Visible Whitespace">
