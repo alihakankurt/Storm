@@ -1,10 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <PackageManifest Version="2.0.0" xmlns="http://schemas.microsoft.com/developer/vsx-schema/2011" xmlns:d="http://schemas.microsoft.com/developer/vsx-schema-design/2011">
     <Metadata>
-        <Identity Id="StormTheme.e1e706e2-05d3-4da9-8754-652cd8ab65f4" Version="1.1" Language="en-US" Publisher="Ali Hakan Kurt" />
+        <Identity Id="StormVSTheme" Version="1.2" Language="en-US" Publisher="Ali Hakan Kurt" />
         <DisplayName>Storm</DisplayName>
         <Description xml:space="preserve">A dark theme for Visual Studio 2022.</Description>
         <Icon>storm.png</Icon>
+        <PreviewImage>preview.png</PreviewImage>
+        <Tags>storm, dark, theme</Tags>
     </Metadata>
     <Installation>
         <InstallationTarget Id="Microsoft.VisualStudio.Community" Version="[17.0, 18.0)">
